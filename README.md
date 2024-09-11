@@ -1,2 +1,9 @@
-# JavaScript-Practice
-All practice files for future references
+# JavaScript Notes
+
+```javascript
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+```
+
+Variables
