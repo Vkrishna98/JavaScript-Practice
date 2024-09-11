@@ -11,13 +11,13 @@
 
 3. Declaring Variables
  Javascript provides three ways to declare variables
+ - var (older way, function scoped, allows redeclaration and reassign)
+ - let (latest way, bloack scoped, dont allow redeclaration, allows reassign)
+ - const (latest way, block scoped, dont allow redeclaration, dont allow reassign)
 
-  1. var (older way, function scoped, allows redeclaration and reassign)
-  2. let (latest way, bloack scoped, dont allow redeclaration, allows reassign)
-  3. const (latest way, block scoped, dont allow redeclaration, dont allow reassign)
+ ### Note: function scoped means accessable in the function only---block scoped means accessable within {}
 
- ## Note: function scoped means accessable in the function only---block scoped means accessable within {}
- 
+ ##Example
 ```javascript
 var num;
 num = 5;
