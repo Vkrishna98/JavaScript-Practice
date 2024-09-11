@@ -39,3 +39,28 @@ console.log(birthYear);
    5) Object
    6) Array
    7) undefined
+  
+```javascript
+//Number
+let num = 5;
+
+//String
+let firstName = "Vamshi";
+let lastName = "Krishna";
+
+//null
+let age = null;
+
+//bool
+let isValid = true;
+
+//Object
+let obj = { name: "Alice", age: 30 };
+
+//Array
+let arrNames = [1, 2, 3];
+
+//undefined
+let guessNum;
+console.log(guessNum); //output is undefined
+```
