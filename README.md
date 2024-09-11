@@ -17,7 +17,7 @@
 
  ### Note: function scoped means accessable in the function only---block scoped means accessable within {}
 
- ##Example
+ ## Example
 ```javascript
 var num;
 num = 5;
