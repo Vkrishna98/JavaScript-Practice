@@ -30,3 +30,12 @@ console.log(firstName);
 const birthYear = 1996;
 console.log(birthYear);
 ```
+4. DataTypes
+- There are 7 data types
+  1) Number
+  2) String
+  3) null
+  4) Boolean
+  5) Object
+  6) Array
+  7) undefined
