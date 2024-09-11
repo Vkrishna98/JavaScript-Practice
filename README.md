@@ -1,11 +1,13 @@
 # JavaScript Notes
 
 1. Javascript
+   
   1) JavaScript is a high-level programming language primarily used to create dynamic and interactive content on websites.
   2) It is one of the core technologies of web development, alongside HTML and CSS.
   3) JavaScript enables developers to implement complex features on web pages, such as interactive forms, animations, and real-time updates without refreshing the page.
 
 2. Variables
+   
   1) Variables are containers that store data values.
   2) Variables allows us to store, modify and retrieve data.
 
