@@ -72,12 +72,10 @@ console.log(guessNum); //output is undefined
 
 
 
-| Feature              | IEnumerable                                                      | ICollection                                                                                 |
-| -------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Primary Purpose      | To provide basic enumeration over a <br>sequence of items.       | To provide basic collection management, including adding, <br>removing, and counting items. |
-| Commonly Used For    | Read-only, iterating over a collection <br>without modifying it. | Managing a modifiable collection of items.                                                  |
-| Modification Support | No (read-only interface)                                         | Yes (can add and remove items)                                                              |
-
-|
-| Count Property | No |Yes|
-| When to Use | When you only need enumeration or iteration <br>capabilities (e.g., for foreach loops). |When you need basic collection management capabilities, such as <br>adding, removing, and checking the count.|
+| Feature              | IEnumerable                                                                             | ICollection                                                                                                   |
+| -------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Primary Purpose      | To provide basic enumeration over a <br>sequence of items.                              | To provide basic collection management, including adding, <br>removing, and counting items.                   |
+| Commonly Used For    | Read-only, iterating over a collection <br>without modifying it.                        | Managing a modifiable collection of items.                                                                    |
+| Modification Support | No (read-only interface)                                                                | Yes (can add and remove items)                                                                                |
+| Count Property       | No                                                                                      | Yes                                                                                                           |
+| When to Use          | When you only need enumeration or iteration <br>capabilities (e.g., for foreach loops). | When you need basic collection management capabilities, such as <br>adding, removing, and checking the count. |
