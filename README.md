@@ -64,3 +64,8 @@ let arrNames = [1, 2, 3];
 let guessNum;
 console.log(guessNum); //output is undefined
 ```
+| Name      | Details                | Notes            |
+|-----------|------------------------|------------------|
+| Alice     | Age: 30<br>Occupation: Engineer<br>Location: Tokyo | Works remotely       |
+| Bob       | Age: 25<br>Occupation: Designer<br>Location: New York | Office based         |
+| Charlie   | Age: 35<br>Occupation: Teacher<br>Location: London  | On sabbatical        |
